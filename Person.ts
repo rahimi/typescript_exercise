@@ -25,5 +25,6 @@ class Main {
     static lee:Man = new Man ("Lee", 39);
 
 }
+
 var main = new Main();
 console.log(Main.lee.getDescription());
